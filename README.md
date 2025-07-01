@@ -86,3 +86,26 @@ Welcome to **Vroom**, a simple and interactive **Car Rental System** built using
 3. Exit
 Enter your choice:
 ```
+
+---
+
+## 🔄 Future Enhancements
+
+- Add admin functionality to manage cars
+- Store rental records in a file or database
+- Implement GUI using JavaFX or Swing
+- Include payment gateway simulation
+
+---
+
+## 🧑‍💻 Author
+
+**Somya Jain**  
+_Final Year MCA Student_  
+Project inspired by real-world rental systems with simplified logic.
+
+---
+
+## 📄 License
+
+This project is open-source and free to use for learning purposes.
